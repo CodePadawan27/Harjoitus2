@@ -8,6 +8,6 @@ namespace Harjoitus2.Luokat
 {
     class Osasto
     {
-        int y = 1;
+       
     }
 }
